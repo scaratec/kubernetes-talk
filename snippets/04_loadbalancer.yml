@@ -11,6 +11,6 @@ spec:
     port: 80
     protocol: TCP
   selector:
-    app: website
+    app: phpmyadmin
   type: LoadBalancer
   loadBalancerIP: 104.155.133.91

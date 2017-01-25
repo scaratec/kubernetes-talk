@@ -1,8 +1,6 @@
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
-  labels:
-    app: website
   name: phpmyadmin
 spec:
   replicas: 1
