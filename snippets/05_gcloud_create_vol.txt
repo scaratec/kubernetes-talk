@@ -1,0 +1,1 @@
+gcloud compute disks create mysql-vol --size 1 --zone us-central1-c
